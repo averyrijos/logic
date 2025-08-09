@@ -15,8 +15,6 @@ Run:
 
 Dependencies:
   - matplotlib (for the OGI chart)
-
-Feel free to extend the placeholders with your domain semantics.
 """
 from __future__ import annotations
 
