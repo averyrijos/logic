@@ -327,3 +327,43 @@ if __name__ == "__main__":
     except Exception as e:
         print("(Plotting skipped)", e)
     print("Simulation complete. Check the console for step logs.")  
+
+"""
+The chart this simulation produces is a time-series of the Ontopolitical Generativity Index (OGI) over the course of the TIL run, with annotations showing when the system applied Scar-Induction or Bloom-Induction events.
+
+What’s on the chart
+X-axis:
+
+Step number in the simulation (0 = initial logic state, then 1…N for each update attempt).
+
+Y-axis:
+
+Computed OGI value — a composite measure of the logic’s coverage, stability, novelty, and safety at that step, scaled to [0, 1].
+
+High values mean the logic is more generative (covers more of its target domain, is stable but still exploratory, and stays within risk limits).
+
+Line plot (markers):
+
+Shows OGI’s progression over time.
+
+Upward slope = logic becoming more generative; downward slope = performance or generativity loss (possibly before a repair).
+
+Annotations:
+
+"S" marks a Scar-Induction — an anomaly was detected (SAT) and the logic was upgraded to repair a flaw.
+
+"B" marks a Bloom-Induction — a stable pattern was detected and formalized as a new rule.
+
+How to read it
+Clusters of S:
+Indicates a period where anomalies kept surfacing — possibly the logic was pushing its novelty or coverage too far, triggering repairs.
+
+Clusters of B:
+Suggest the system found a stable “sweet spot” and began formalizing what works.
+
+Steady incline:
+Healthy iterative growth — each event passes all gates and increases OGI.
+
+Flat sections:
+No changes, or upgrades were rejected by the gates (rollback applied).
+"""
