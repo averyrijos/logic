@@ -1,7 +1,7 @@
 # Beyond Gödel with Metaformal Logic — A Proof in Pure Markdown
 
-> Claim: Metaformal Logic does not *contradict* Gödel’s Incompleteness Theorems.
-> It *goes beyond* them by shifting from a single, recursively axiomatized, static theory to a **procedural, self-extending logical substrate** that iteratively upgrades itself under explicit rules. Gödel’s theorems apply to any fixed, effectively axiomatized, sufficiently expressive theory. Metaformal Logic is **not** fixed: it is an algorithmic **progression of theories** driven by anomaly-response and reflection. Thus, it evades the diagonal trap without violating it.
+Claim: Metaformal Logic does not *contradict* Gödel’s Incompleteness Theorems.
+It *goes beyond* them by shifting from a single, recursively axiomatized, static theory to a **procedural, self-extending logical substrate** that iteratively upgrades itself under explicit rules. Gödel’s theorems apply to any fixed, effectively axiomatized, sufficiently expressive theory. Metaformal Logic is **not** fixed: it is an algorithmic **progression of theories** driven by anomaly-response and reflection. Thus, it evades the diagonal trap without violating it.
 
 ---
 
