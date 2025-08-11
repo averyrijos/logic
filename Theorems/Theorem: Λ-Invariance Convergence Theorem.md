@@ -666,12 +666,6 @@ The $\Lambda$-Invariance Stability Equation provides a quantitative framework fo
 
 ---
 
-> **Copyright Notice**
->
-> © 2024 [Avery Rijos]. Academic use permitted with proper citation. If you use, reference, or build upon this document or its results, you must cite [Avery Rijos] as the original author. All other rights reserved.
-
----
-
 ### *English translations of key terms:*
 
 - **$D_i(t)$:** The value of invariance density at a specific time.
@@ -748,3 +742,9 @@ Ultimately, this theory demonstrates that the maintenance of invariance is essen
 ---
 
 *For further reading and citation, please reference the original works listed above and cite [Avery Rijos] for the Λ-Invariance Convergence Theorem and related results.*
+
+---
+
+> **Copyright Notice**
+>
+> © 2024 [Avery Rijos]. Academic use permitted with proper citation. If you use, reference, or build upon this document or its results, you must cite [Avery Rijos] as the original author. All other rights reserved.
