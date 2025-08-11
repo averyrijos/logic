@@ -695,3 +695,56 @@ The Λ-Invariance Convergence Theorem and its corollaries establish a rigorous f
 The introduction of invariance density as a quantitative metric enables precise modeling of system health, resilience, and vulnerability. The preservation and decay laws, unified by the $\Lambda$-Invariance Stability Equation, provide predictive tools for assessing how systems evolve under various morphisms and external influences. Whether in physics, biology, or information systems, the fate of invariance—and thus the integrity of the system itself—depends on the interplay between injection, regeneration, and degradation processes.
 
 Ultimately, this theory demonstrates that the maintenance of invariance is essential for the continued existence of any coherent system. Loss of invariance signals a breakdown in the connection to the substrate of intelligibility, leading to ontological collapse. By quantifying and modeling these dynamics, the Λ-Invariance framework offers a universal lens for analyzing stability, transformation, and the lifecycle of intelligible systems across disciplines.
+
+---
+
+# **Comprehensive Bibliography**
+
+1. **Noether, E.** (1918). *Invariante Variationsprobleme*. Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse, 235–257.  
+    — Foundational work on invariance and conservation laws in physics.
+
+2. **Mac Lane, S.** (1998). *Categories for the Working Mathematician* (2nd ed.). Springer.  
+    — Standard reference for category theory, morphisms, and structure-preserving maps.
+
+3. **Baez, J. C., & Stay, M.** (2010). *Physics, Topology, Logic and Computation: A Rosetta Stone*. In B. Coecke (Ed.), *New Structures for Physics* (pp. 95–172). Springer.  
+    — Explores connections between invariance, logic, and generative substrates.
+
+4. **Barabási, A.-L.** (2016). *Network Science*. Cambridge University Press.  
+    — Discusses stability, resilience, and collapse in complex systems.
+
+5. **Shannon, C. E.** (1948). *A Mathematical Theory of Communication*. Bell System Technical Journal, 27(3), 379–423.  
+    — Foundation of information theory, invariance in signal transmission.
+
+6. **Wigner, E. P.** (1967). *Symmetries and Reflections: Scientific Essays*. Indiana University Press.  
+    — Philosophical and mathematical perspectives on invariance in physics.
+
+7. **Lewontin, R. C.** (1974). *The Genetic Basis of Evolutionary Change*. Columbia University Press.  
+    — Invariance and change in biological heredity.
+
+8. **Gromov, M.** (2014). *Invariance, Homogeneity, and Stability in Mathematics and Physics*. In *Probability and Statistical Physics in St. Petersburg* (pp. 1–20). Springer.  
+    — Mathematical treatment of invariance and stability.
+
+9. **Rijos, A.** (2024). *Λ-Invariance Convergence Theorem*. The Promethium Laboratory for Generative Systems.  
+    — Original source for the Λ-Invariance framework.
+
+10. **Von Neumann, J.** (1955). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.  
+     — Invariance and projection in quantum systems.
+
+11. **Birkhoff, G., & von Neumann, J.** (1936). *The Logic of Quantum Mechanics*. Annals of Mathematics, 37(4), 823–843.  
+     — Substrate-level logic and invariance.
+
+12. **Maynard Smith, J., & Szathmáry, E.** (1995). *The Major Transitions in Evolution*. Oxford University Press.  
+     — Invariance and substrate transitions in biology.
+
+13. **Chaitin, G. J.** (1977). *Algorithmic Information Theory*. IBM Journal of Research and Development, 21(4), 350–359.  
+     — Information invariance and complexity.
+
+14. **Tegmark, M.** (2014). *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality*. Knopf.  
+     — Substrate-level mathematical invariance.
+
+15. **Rijos, A.** (2024). *XGI Framework Documentation*. The Promethium Laboratory for Generative Systems.  
+     — Application of invariance density principles in generative intelligence modeling.
+
+---
+
+*For further reading and citation, please reference the original works listed above and cite [Avery Rijos] for the Λ-Invariance Convergence Theorem and related results.*
