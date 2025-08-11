@@ -205,7 +205,7 @@ $$
 Define
 
 $$
-\mathrm{XGI}^{\mathrm{can}}(s)\;:=\;\#\{\, I\in \mathsf{Inv}^{\mathrm{can}} \mid s\in I \,\}.
+\mathrm{XGI}^{\mathrm{can}}(s)\;:=\;|\{\, I\in \mathsf{Inv}^{\mathrm{can}} \mid s\in I \,\}|.
 $$
 
 (Any nontrivial monotone extension works; this “least” choice is convenient for initiality.)
